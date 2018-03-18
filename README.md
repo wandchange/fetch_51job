@@ -16,4 +16,4 @@
 
 ### 效果图
 
-![https://github.com/pythonchannel/fetch_51job/blob/master/QQ%E6%88%AA%E5%9B%BE20180318220606.png](效果图)
+![效果图](https://github.com/pythonchannel/fetch_51job/blob/master/QQ%E6%88%AA%E5%9B%BE20180318220606.png)
